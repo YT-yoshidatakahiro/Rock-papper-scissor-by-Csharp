@@ -1,0 +1,10 @@
+C:\Users\yoshida4\Desktop\janken\janken\bin\Debug\janken.exe.config
+C:\Users\yoshida4\Desktop\janken\janken\bin\Debug\janken.exe
+C:\Users\yoshida4\Desktop\janken\janken\bin\Debug\janken.pdb
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.csprojAssemblyReference.cache
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.Janken1.resources
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.Properties.Resources.resources
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.csproj.GenerateResource.cache
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.csproj.CoreCompileInputs.cache
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.exe
+C:\Users\yoshida4\Desktop\janken\janken\obj\Debug\janken.pdb
